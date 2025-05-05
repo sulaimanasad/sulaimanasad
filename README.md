@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Sulaiman Asad](img/github-header-image-3.png)
+![Sulaiman Asad](img/github-header-image-2.png)
 
 </div>
 
