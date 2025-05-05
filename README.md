@@ -1,6 +1,10 @@
 ## Hello World I'm Sulaiman Asadulloh 👋
 
+<div align="center">
+
 ![Sulaiman Asad](img/github-header-image-2.png)
+
+</div>
 
 <!--
 **sulaimanasad/sulaimanasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
