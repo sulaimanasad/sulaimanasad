@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World I'm Sulaiman Asadulloh 👋
+
+![Sulaiman Asad](img/github-header-image.png)
 
 <!--
 **sulaimanasad/sulaimanasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@rumahgemilangindonesia**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
