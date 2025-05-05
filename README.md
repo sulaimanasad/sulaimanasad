@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<!-- <div align="center">
 
   <a href="https://open.spotify.com/user/Sulaiman Asadullah">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hq2tf5montyktc6arik6fryg5u" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
